@@ -29,9 +29,10 @@ Hence, the main goals of this analysis/project will be:
 
 ### Predictors 
 I intend to use the following predictors:
-* SGD Classifier - scikit-learn
+* Logisitic Regression - Tensorflow
+* Naive Bayes - scikit-learn
 * Random Forest Classifier - scikit-learn
-* SVM Classifier - scikit-learn
+* Support Vector Classifier (SVC) - scikit-learn
 * Recurrent Neural Network - Keras
 * Convolutional Neural Network - Tensorflow
 * K-Nearest Neighbours - scikit-learn
@@ -41,6 +42,8 @@ I intend to use the following predictors:
 
 ## References 
 [] Hands-on Machine Learning with Tensorflow and Scikit-Learn
+[] Data Science in Python book 
+[] http://colah.github.io/posts/2014-10-Visualizing-MNIST/
 [] http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/
 [] https://mlwave.com/kaggle-ensembling-guide/
 
